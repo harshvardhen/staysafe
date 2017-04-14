@@ -1,1 +1,7 @@
-function to suntract two numbers
+function to subtract two numbers
+
+sub(int x, int z)
+{
+
+
+}
