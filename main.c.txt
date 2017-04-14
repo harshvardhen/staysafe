@@ -2,6 +2,7 @@
 main()
 {
 printf("This is main");
+clrscr();
 
 
 }
