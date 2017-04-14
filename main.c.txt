@@ -3,6 +3,7 @@ main()
 {
 printf("This is main");
 clrscr();
+printf("Please enter your name");
 
 
 }
