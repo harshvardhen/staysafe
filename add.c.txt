@@ -1,1 +1,7 @@
 //function to add two numbers
+add(int x, int y)
+
+{
+
+
+}
